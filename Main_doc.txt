@@ -1,4 +1,5 @@
 Curriculum overview
+
 Web Standards
 
 HTML / CSS
@@ -6,4 +7,9 @@ Core JavaScript
 Accessibility
 Best practices
 
+Softer Skills
 
+Researching solutions
+Problem Solving
+Reviewing code 
+Interview prep 
