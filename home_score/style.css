@@ -1,0 +1,54 @@
+@font-face {
+    font-family: scores;
+    src: url(./led-board-7/led_board-7.ttf);
+}
+
+
+
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    border: 3px solid black;
+    height: 70vh;
+    border-radius: 10px;
+    background-image: url("./mike.jpg");
+    background-size: cover;
+    font-family: scores;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 100px;
+}
+.btn , .btn_m {
+    font-family: scores;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    /* display: flex;
+    flex-direction: column;
+    flex-wrap: wrap; */
+    grid-template-columns: repeat(2, 1fr);
+    /* grid-template-rows: repeat(2, 1fr); */
+    
+}
+#home-score-screen, #guest-score-screen {
+    color: red;
+    border: 2px solid black;
+    width: 200px;
+    height: 100px;
+    font-family: scores;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 70px;
+    padding-top: 45px;
+    background-color: aliceblue;
+}
+
+/* .button-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 100px);
+    grid-template-rows: repeat(2, 50px); 
+    gap: 10px;
+    justify-content: center;
+} */
