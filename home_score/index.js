@@ -18,7 +18,7 @@ function add_two(){
     console.log(count1)
 }
 function add_three(){
-    count1 += 3
+    count1 += 31
     score1.textContent = count1
     console.log(count1)
 }
