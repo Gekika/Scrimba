@@ -1,0 +1,42 @@
+@font-face{
+    src: url('Cofeben.ttf');
+    font-family: cofeben;
+}
+
+
+body{
+    margin: 0;
+    background-size: cover;
+    color: white;
+    font-family: cofeben;
+    font-weight: bold;
+
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWdoMGU5OGEzcWZjcDVqbnQ5N29hZHdoajQ2NGUydW43aDA0YXdjcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9YSb7W1h33KHIZ6SrC/giphy.gif');
+    padding: 30px 0px 5px 0px;
+    height: 1000px;
+    background-size: cover;
+}
+.btn{
+    font-family: inherit;
+}
+
+.underline {
+    border-bottom: 4px solid white;
+}
+
+#logo {
+    width: 150px;
+    border-radius: 200px;
+}
+h3{
+    color: black;
+    text-align: center;
+}
+.container h1{
+    text-shadow: 3px 3px 5px black;
+}

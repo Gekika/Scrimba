@@ -1,0 +1,17 @@
+I will use this space to Document what I learn at my Frontend_Dev Scholarship.
+
+Curriculum overview
+
+Web Standards
+
+HTML / CSS
+Core JavaScript
+Accessibility
+Best practices
+
+Softer Skills
+
+Researching solutions
+Problem Solving
+Reviewing code 
+Interview prep 

@@ -1,0 +1,30 @@
+.main-img{
+    width: 150px;
+    border-radius: 30px;
+    
+
+}
+
+body{
+    margin: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card{
+    display: flex;
+    padding: 20px;
+    background-color: antiquewhite;
+    justify-content: space-between;
+    width: 400px;
+    margin: 0px auto;  
+    text-align: center;
+    box-shadow: 2px 2px 2px 1px rgb(0 0 0 / 20%);
+    border-radius: 20px;
+    /* border-bottom: 10px solid #676562; */
+}
+
+
+
+.bordered{
+    border: 0px solid burlywood;
+}

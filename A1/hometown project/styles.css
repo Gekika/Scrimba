@@ -1,0 +1,17 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+h1 {
+    color: red;
+}
+.hero {
+    background-image: url("./images/p1.jpg");
+    display: flexbox;
+}
